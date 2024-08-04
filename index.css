@@ -203,12 +203,12 @@ section
 {
     flex: 0.3 2 30rem;
 }
-.about .row .image video
+ .about .row .image video
 {
     width: 600px;
     height: 300px;
     
-}
+} 
 
 /* artiste */
 .artist
@@ -696,6 +696,11 @@ color: var(--primary-color);
   margin-top: 10rem;
     padding: 2rem 9%;
     
+}
+.gallery h1
+{
+   
+ text-align: center;
 }
 
 
