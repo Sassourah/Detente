@@ -717,7 +717,10 @@ color: var(--primary-color);
     text-align: center;
 }
 
-
+.detente
+{
+    color: var(--primary-color);
+}
 
 
 
