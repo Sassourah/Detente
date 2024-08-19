@@ -252,8 +252,8 @@ section
     width: 5rem;
     line-height: 5rem;
     font-size: 2rem;
-    color: #fff;
-    border: .1rem solid #fff;
+    /* color: #fff; 
+    border: .1rem solid #fff;  */
     text-align: center;
  }
  .artist .box-container .box .image:hover .share
@@ -262,8 +262,8 @@ section
  }
  .artist .box-container .box .image .share a:hover
  {
-    background: #fff;
-    color: var(--main-color);
+    background: #fff; 
+    color: var(--main-color);  
  }
  .artist .box-container .box .content
  {
